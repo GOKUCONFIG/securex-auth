@@ -1,0 +1,14 @@
+{
+  "keys": [
+    {
+      "key": "GOKU123",
+      "expiry": "2026-12-31",
+      "status": "active"
+    },
+    {
+      "key": "VIP999",
+      "expiry": "2027-01-01",
+      "status": "active"
+    }
+  ]
+}
